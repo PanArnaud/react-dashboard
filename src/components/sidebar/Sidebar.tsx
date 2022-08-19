@@ -19,7 +19,6 @@ const Sidebar = () => {
       <div className="top">
         <span className="logo">Ethical</span>
       </div>
-      <hr />
       <div className="center">
         <ul>
           <p className="title">Main</p>
